@@ -1,0 +1,85 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\sectionentry {1}{Outline}{2}{Outline}{0}}
+\headcommand {\beamer@sectionpages {1}{1}}
+\headcommand {\beamer@subsectionpages {1}{1}}
+\headcommand {\slideentry {1}{0}{1}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\sectionentry {2}{Introduction}{3}{Introduction}{0}}
+\headcommand {\beamer@sectionpages {2}{2}}
+\headcommand {\beamer@subsectionpages {2}{2}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{3}{Data Resource}}\headcommand {\beamer@subsectionpages {3}{2}}
+\headcommand {\slideentry {2}{1}{1}{3/3}{Data Resource}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{4}{Information}}\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\slideentry {2}{2}{1}{4/4}{Information}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\slideentry {2}{2}{2}{5/5}{Information}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{6}{Image Examples}}\headcommand {\beamer@subsectionpages {4}{5}}
+\headcommand {\slideentry {2}{3}{1}{6/6}{Image Examples}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {2}{3}{2}{7/7}{Image Examples}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\slideentry {2}{3}{3}{8/8}{Image Examples}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\sectionentry {3}{Summary Statistics}{9}{Summary Statistics}{0}}
+\headcommand {\beamer@sectionpages {3}{8}}
+\headcommand {\beamer@subsectionpages {6}{8}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{9}{Means}}\headcommand {\beamer@subsectionpages {9}{8}}
+\headcommand {\slideentry {3}{1}{1}{9/9}{Means}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {3}{1}{2}{10/10}{Means}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {3}{1}{3}{11/11}{Means}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {3}{1}{4}{12/12}{Means}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{13}{Principal Component Analysis}}\headcommand {\beamer@subsectionpages {9}{12}}
+\headcommand {\slideentry {3}{2}{1}{13/13}{Principal Component Analysis}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {3}{2}{2}{14/14}{Principal Component Analysis}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {3}{2}{3}{15/15}{Principal Component Analysis}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {3}{2}{4}{16/16}{Principal Component Analysis}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{17}{t-SNE}}\headcommand {\beamer@subsectionpages {13}{16}}
+\headcommand {\slideentry {3}{3}{1}{17/17}{t-SNE}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\slideentry {3}{3}{2}{18/18}{t-SNE}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\sectionentry {4}{Analysis}{19}{Analysis}{0}}
+\headcommand {\beamer@sectionpages {9}{18}}
+\headcommand {\beamer@subsectionpages {17}{18}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{19}{Dimensionality Reduction}}\headcommand {\beamer@subsectionpages {19}{18}}
+\headcommand {\slideentry {4}{1}{1}{19/19}{Dimensionality Reduction}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{20}{One-versus-all Logistic Regression}}\headcommand {\beamer@subsectionpages {19}{19}}
+\headcommand {\slideentry {4}{2}{1}{20/20}{One-versus-all Logistic Regression}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{21}{K-Nearest Neighbor}}\headcommand {\beamer@subsectionpages {20}{20}}
+\headcommand {\slideentry {4}{3}{1}{21/21}{K-Nearest Neighbor}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\beamer@subsectionentry {0}{4}{4}{22}{Support Vector Machine }}\headcommand {\beamer@subsectionpages {21}{21}}
+\headcommand {\slideentry {4}{4}{1}{22/22}{Support Vector Machine }{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\beamer@subsectionentry {0}{4}{5}{23}{Neural Network}}\headcommand {\beamer@subsectionpages {22}{22}}
+\headcommand {\slideentry {4}{5}{1}{23/23}{Neural Network}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {4}{5}{2}{24/24}{Neural Network}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\sectionentry {5}{Predict Instantly Online}{25}{Predict Instantly Online}{0}}
+\headcommand {\beamer@sectionpages {19}{24}}
+\headcommand {\beamer@subsectionpages {23}{24}}
+\headcommand {\slideentry {5}{0}{1}{25/25}{}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {5}{0}{2}{26/26}{}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\slideentry {5}{0}{3}{27/27}{}{0}}
+\headcommand {\beamer@framepages {27}{27}}
+\headcommand {\beamer@partpages {1}{27}}
+\headcommand {\beamer@subsectionpages {25}{27}}
+\headcommand {\beamer@sectionpages {25}{27}}
+\headcommand {\beamer@documentpages {27}}
+\headcommand {\def \inserttotalframenumber {27}}
