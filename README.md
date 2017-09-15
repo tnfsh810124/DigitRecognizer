@@ -1,2 +1,3 @@
-# DigitRecognizer
-A Final Project of "Practical Big Data Analytics"
+# Digits-Recognizer
+A front-end little project that use ANN to recognize digits drawn by user's finger.
+Model constructor: @tnfsh810124
